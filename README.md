@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 你好！👋我是蕾姆！💖
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=leimu998&show_icons=true&hide_border=true&icon_color=586069&title_color=FFA500">
+
 
 <!--
 **leimu998/leimu998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
